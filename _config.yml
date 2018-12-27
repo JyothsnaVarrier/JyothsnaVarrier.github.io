@@ -1,6 +1,6 @@
 # Site settings
-name: jyothsna varrier
-email: edwin+contactme@someemail.com
+name: Jyothsna Varrier
+email: jyothsnavarrier@gmail.com
 #canonical_url: https://edwinexemplar.com
 keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
 skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
@@ -10,8 +10,8 @@ baseurl:
 # You should replace these with your social networks, of course. :)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/cgroom/
-  - title: medium
+    url: https://www.linkedin.com/in/jyothsna-varrier-756546124/
+  - title: instagram
     url: https://medium.com/@cgroom
   - title: twitter
     url: https://twitter.com/chuck_groom
